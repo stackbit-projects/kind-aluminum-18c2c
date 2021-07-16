@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Η Φιλοσοφία μας
 seo:
   title: ''
   description: ''
