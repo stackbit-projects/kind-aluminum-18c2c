@@ -28,7 +28,7 @@
             },
             {
                 "label": "Η Φιλοσοφία μας",
-                "url": "/h-fi",
+                "url": "h-filo",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
