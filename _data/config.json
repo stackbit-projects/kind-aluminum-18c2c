@@ -28,7 +28,7 @@
             },
             {
                 "label": "Η Φιλοσοφία μας",
-                "url": "#/h-",
+                "url": "#",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
